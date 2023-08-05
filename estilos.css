@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+section ul li{
+    margin: 2px;
+    padding: 2px;
+    color: blue;
+    font-size: 14px;
+
+} 
+section ul li:hover{
+    font-size: 18px;
+}
